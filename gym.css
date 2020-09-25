@@ -1,0 +1,317 @@
+.abc {
+    top: 10px;
+    position: absolute;
+    width: 75%;
+}
+.jumbotron
+{
+  list-style: none;
+  padding: 150px;
+  margin: 0;
+  text-align: left;
+  color: white;
+  background: #ffffff;
+  background-position: no repeat;
+  background: url("../images/photo.jpg");
+  width: 100%;
+  height: 700%;
+}
+img.nav-images{
+    width: 50px;
+    height: 50px;
+}
+img.nav-images2 {
+    width: 50px;
+    height: 50px;
+}
+img.nav-images3 {
+    width: 50px;
+    height: 50px;
+}
+img.nav-images4 {
+    width: 50px;
+    height: 50px;
+}
+img.nav-images5 {
+    width: 50px;
+    height: 50px;
+}
+img.nav-images6 {
+    width: 50px;
+    height: 50px;
+}
+.home-text{
+    display: none;
+}
+.nav-images:hover {
+    display: inline-block;
+    background-color: red;
+}
+.enrol {
+    display: inline;
+}
+.gym {
+ 
+	color:black;
+	font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    text-align: left;
+}
+
+.auto{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-right: 30px;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    flex-wrap: wrap;
+}
+.auto2{
+    font-size: 40%;
+    text-align: center;
+}
+.auto3{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+}
+.class{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.image-overlay{
+    position: absolute;
+    opacity: .6;
+    width: 250px;
+    height: 150px;
+    background-color: #000;
+    z-index: 888;
+}
+.bftext-container{
+    z-index: 9999;
+    margin: 0 0 0 10%;
+    position: relative;
+    top: 63%
+}
+.gym-backface{
+    width: 250px;
+    height: 150px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.capitalize{
+    text-transform: uppercase;
+    color: white;
+}
+.bfbtn {
+    background-color: red;
+    padding: 5px;
+    width: 80px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.bfbtn p{
+    font-size: 9px;
+    color: white;
+    margin: 0 !important;
+}
+.bf_bigtext p{
+    font-weight: 600;
+    color: white;
+}
+.text-italics {
+    font-style: italic;
+}
+#backface-1{
+    background-image: url('../images/images.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#backface-2{
+    background-image: url('../images/download\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+#backface-3{
+    background-image: url('../images/aerobics.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+.exp{
+    font-size: 30px;
+    text-align: center;
+}
+#backface-4{
+    background-image: url('../images/david.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 170px;
+}
+.text-italics2 {
+    font-style: italic;
+    font-size: 12px;
+}
+#backface-5{
+    background-image: url('../images/sarah.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 170px;
+}
+.Carousel1{
+    width: 250px;
+    height: 150px;
+}
+.auto5{
+    background-color: #b6b8b7;
+}
+.capitalize2{
+    text-transform: uppercase;
+    color: #585c59;
+    text-align: center;
+    font-size: xx-large;
+    font-style: normal;
+}
+.gym3{
+    background-color: rgb(228, 224, 224);
+}
+.w3-black{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 40px;
+    border-color:  #b0b5b5;
+    font-size: 25px;
+}
+.Carousel{
+    height: 200px;
+}
+.anne{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.captalize3{
+    color: black;
+    font-size: xx-large;
+    text-align: right;
+}
+.capt{
+    float: right;
+}
+.us2{
+    width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.us3{
+    width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.us4{
+    width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.us5{
+    width: 30%;
+    height: 100px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.us6{
+    background-color: black; color: white;
+    padding: 10px;
+}
+.button2{
+    background-position: center;
+    background-color: black;
+    margin: 5%;
+}
+.img{
+    width: 30px;
+    height: 30px;
+}
+.ony{
+    font-size: 20px;
+    background-color: white; color: black;
+}
+.club{
+    background-color: black;
+    height: 70px;
+}
+.img2{
+    height: 70px;
+    padding-right: 30%;
+    padding-left: 5%;
+}
+.im3{
+    height: 45px;
+    margin: 1px;
+    padding-top: 15px;
+}
+.touch{
+    word-spacing: 20px;
+    font-size: 20px;
+    color: white;
+    float: right;
+    padding-top: 15px;
+
+}
+.bla{
+    padding-top: 20px;
+}
+.blac{
+    float: right;
+}
